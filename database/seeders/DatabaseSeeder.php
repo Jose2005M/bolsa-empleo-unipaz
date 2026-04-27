@@ -142,7 +142,7 @@ class DatabaseSeeder extends Seeder
         $this->command->info('');
         $this->command->info('📋 Credenciales de acceso:');
         $this->command->info('   Admin:    admin@unipaz.edu.co / Admin2024*');
-        $this->command->info('   Empresa:  info@tecnosoluciones.com' / Empresa2024*');
+        $this->command->info('   Empresa:  info@tecnosoluciones.com / Empresa2024*');
         $this->command->info('   Estudiante: carlos.lopez@unipaz.edu.co / Student2024*');
         $this->command->info('   (Estudiantes normalmente ingresan solo con Google OAuth)');
     }
