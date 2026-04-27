@@ -3,6 +3,12 @@ set -e
 
 echo "=== Bolsa de Empleo UNIPAZ — Iniciando deploy ==="
 
+# Crear .env desde .env.example si no existe (Laravel requiere este archivo)
+if [ ! -f /app/.env ]; then
+    cp /app/.env.example /app/.env
+    echo ".env creado desde .env.example"
+fi
+
 # Generar clave de aplicación si no existe
 if [ -z "$APP_KEY" ]; then
     php artisan key:generate --force
