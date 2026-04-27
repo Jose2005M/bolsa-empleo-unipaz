@@ -532,7 +532,7 @@
                     Instituto Universitario de la Paz — Barrancabermeja, Santander
                 </span>
                 <span>
-                    <a href="#"><i class="bi bi-globe me-1"></i>unipaz.edu.co</a>
+                    <a href="https://unipaz.edu.co/"><i class="bi bi-globe me-1"></i>unipaz.edu.co</a>
                     <span class="mx-2 opacity-25">|</span>
                     <a href="#"><i class="bi bi-envelope me-1"></i>Vigilada Min Educación</a>
                 </span>
@@ -757,22 +757,22 @@
                     <div class="text-white fw-600 mb-2" style="font-size:.85rem;">Instituto Universitario de la Paz</div>
                     <ul class="list-unstyled mb-0" style="font-size:.8rem;">
                         <li class="mb-1"><i class="bi bi-geo-alt me-2" style="color:var(--unipaz-green);"></i>Barrancabermeja, Santander</li>
-                        <li class="mb-1"><i class="bi bi-globe me-2" style="color:var(--unipaz-green);"></i><a href="#">unipaz.edu.co</a></li>
-                        <li class="mb-1"><i class="bi bi-envelope me-2" style="color:var(--unipaz-green);"></i><a href="#">contacto@unipaz.edu.co</a></li>
+                        <li class="mb-1"><i class="bi bi-globe me-2" style="color:var(--unipaz-green);"></i><a href="https://unipaz.edu.co/">unipaz.edu.co</a></li>
+                        <li class="mb-1"><i class="bi bi-envelope me-2" style="color:var(--unipaz-green);"></i><a href="https://unipaz.edu.co/transparencia/espacios-de-atencion-ciudadana/ ">contacto@unipaz.edu.co</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3">
                     <div class="text-white fw-600 mb-2" style="font-size:.85rem;">Redes oficiales</div>
                     <div class="d-flex gap-2 flex-wrap" style="font-size:.8rem;">
-                        <a href="#" class="d-flex align-items-center gap-1 py-1 px-2 rounded"
+                        <a href="https://www.facebook.com/profile.php?id=100064522486908&locale=es_LA" class="d-flex align-items-center gap-1 py-1 px-2 rounded"
                             style="background:rgba(255,255,255,.07); color:rgba(255,255,255,.6);">
                             <i class="bi bi-facebook"></i> UNIPAZ
                         </a>
-                        <a href="#" class="d-flex align-items-center gap-1 py-1 px-2 rounded"
+                        <a href="https://www.instagram.com/p/DVdjR5blvzZ/" class="d-flex align-items-center gap-1 py-1 px-2 rounded"
                             style="background:rgba(255,255,255,.07); color:rgba(255,255,255,.6);">
                             <i class="bi bi-instagram"></i> @UNIPAZNoticias
                         </a>
-                        <a href="#" class="d-flex align-items-center gap-1 py-1 px-2 rounded"
+                        <a href="https://www.youtube.com/@UNIPAZNoticias" class="d-flex align-items-center gap-1 py-1 px-2 rounded"
                             style="background:rgba(255,255,255,.07); color:rgba(255,255,255,.6);">
                             <i class="bi bi-youtube"></i> YouTube
                         </a>
